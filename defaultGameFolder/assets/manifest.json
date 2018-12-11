@@ -1,0 +1,56 @@
+{
+"data":{
+
+"introbackground" :  "images/myBG.jpg",
+
+"backgrounds": [
+
+    "images/By-play.png",
+    "images/disko-play.png",
+    "images/eventyr-play.png",
+    "images/jul-play.png",
+    "images/jungle-play.png",
+    "images/Rummet-play.png",
+    "images/slik-play.png"
+
+],
+
+"spines": ["by", "eventyr"],
+
+
+"frontmenuitems" : [
+
+    {
+        "img": "images/by-play.png",
+        "x": -120, 
+        "y": 100,
+        "rotation": 0,
+        "name":"by"
+    },
+
+    {
+        "img": "images/disko-play.png",
+        "x": 370,
+        "y": 100,
+        "rotation": 0,
+        "name":"disco"
+    },
+
+    {
+        "img": "images/eventyr-play.png",
+        "x": 900,
+        "y": 100,
+        "rotation": 0,
+        "name":"jungle"
+    }
+
+]
+
+
+
+
+}
+
+
+
+}

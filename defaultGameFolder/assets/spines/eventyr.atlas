@@ -1,0 +1,258 @@
+
+eventyr.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 194, 398
+  size: 88, 163
+  orig: 88, 163
+  offset: 0, 0
+  index: -1
+Layer 1 copy 3
+  rotate: true
+  xy: 553, 627
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 282, 400
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 113, 198
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 880, 834
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 749, 755
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 367, 563
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 1232, 1650
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 1759, 1886
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 666, 627
+  size: 96, 82
+  orig: 96, 82
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 113, 254
+  size: 69, 113
+  orig: 69, 113
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 0, 0
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 1636, 1878
+  size: 123, 170
+  orig: 123, 170
+  offset: 0, 0
+  index: -1
+Layer 21 copy
+  rotate: false
+  xy: 0, 189
+  size: 113, 178
+  orig: 113, 178
+  offset: 0, 0
+  index: -1
+Layer 21 copy 2
+  rotate: true
+  xy: 553, 723
+  size: 74, 196
+  orig: 74, 196
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1279, 1846
+  size: 357, 202
+  orig: 357, 202
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 803, 1043
+  size: 195, 301
+  orig: 195, 301
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 367, 634
+  size: 186, 163
+  orig: 186, 163
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 1002, 1399
+  size: 297, 230
+  orig: 297, 230
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1002, 1696
+  size: 277, 352
+  orig: 277, 352
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 1002, 1351
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 803, 829
+  size: 77, 214
+  orig: 77, 214
+  offset: 0, 0
+  index: -1
+bomb-behind
+  rotate: false
+  xy: 1279, 1726
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+burger
+  rotate: false
+  xy: 456, 553
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+elephant
+  rotate: false
+  xy: 1882, 1942
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 0, 561
+  size: 367, 236
+  orig: 367, 236
+  offset: 0, 0
+  index: -1
+isvaffel
+  rotate: false
+  xy: 282, 456
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+lollipops
+  rotate: false
+  xy: 880, 891
+  size: 91, 152
+  orig: 91, 152
+  offset: 0, 0
+  index: -1
+oejeHvid
+  rotate: false
+  xy: 0, 367
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+oejeLukket
+  rotate: false
+  xy: 1279, 1741
+  size: 192, 105
+  orig: 192, 105
+  offset: 0, 0
+  index: -1
+oejeSort
+  rotate: false
+  xy: 1759, 1925
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+pig
+  rotate: false
+  xy: 0, 75
+  size: 107, 114
+  orig: 107, 114
+  offset: 0, 0
+  index: -1
+redexplode
+  rotate: false
+  xy: 0, 797
+  size: 803, 547
+  orig: 803, 547
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1993, 1929
+  size: 119, 55
+  orig: 119, 55
+  offset: 0, 0
+  index: -1
+whiteexplode
+  rotate: false
+  xy: 0, 1344
+  size: 1002, 704
+  orig: 1002, 704
+  offset: 0, 0
+  index: -1
+zebra
+  rotate: true
+  xy: 1471, 1745
+  size: 101, 143
+  orig: 101, 143
+  offset: 0, 0
+  index: -1
